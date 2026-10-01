@@ -119,4 +119,14 @@ curl -X 'POST' \
 
 ## 📦 Example  
 
-Run the **FastAPI server** and the **Streamlit frontend** locally, upload an image via the Streamlit UI, and observe the classification results!  
+Run the **FastAPI server** and the **Streamlit frontend** locally, upload an image via the Streamlit UI, and observe the classification results!
+
+---
+
+## Original Repository
+
+This repository was copied to **amrbarakat22** while preserving the original Git history.
+
+Original repository:
+
+https://github.com/amrcool/CNN-Image-Classifier
